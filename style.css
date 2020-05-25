@@ -1,0 +1,19 @@
+h1{
+    color: dodgerblue;
+    background-color: azure;
+    border: 3px solid green;
+    font-size: 49px;
+    font-family: cursive;
+}
+
+p{
+    background-color: orange;
+}
+
+div{
+    color: red;
+}
+
+img{
+    width: 100px;
+}
